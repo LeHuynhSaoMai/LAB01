@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  2 18:44:06 2024
 
-@author: User
+@author: Smai
 """
 
 h = int(input("Nhập giờ: "))
