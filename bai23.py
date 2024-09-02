@@ -8,7 +8,7 @@ Created on Mon Sep  2 20:13:23 2024
 # Nhập các hệ số 
 a = float(input("Nhập hệ số a: "))
 b = float(input("Nhập hệ số b: "))
-c = 0
+c = float(input("Nhập hệ số c: "))
 delta = b**2 - 4*a*c
 print ("Giải phương trình bậc 2: ax^2 + bx + c = 0")
 if delta < 0:
